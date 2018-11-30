@@ -7,7 +7,7 @@ for x in str:
     if x.isalpha():
         flag2=1
 if(flag1==1) and(flag2==1):
-    print 'yes'
+    print 'Yes'
 else:
-    print 'no'
+    print 'No'
     
